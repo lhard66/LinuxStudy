@@ -9,4 +9,3 @@ function func() {
 func
 
 echo "outside a: ${a}"
-
